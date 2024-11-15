@@ -30,3 +30,9 @@ The logistic regression model performs very well in predicting healthy loans (cl
 The slightly lower precision and recall for predicting risky loans may be due to our imbalanced dataset, as there are only 619 risky loans in the test data compared to 18,765 healthy ones. This imbalance limits the number of high-risk loan cases the model can learn from, leaving room for improvement. Adding more examples of risky loans to the training set could help enhance the model’s accuracy for this category.
 
 When classifying loans, prioritizing the identification of high-risk loans is crucial, as the potential financial loss from a loan that defaults is typically greater than the interest earned on a successful loan. The model’s overall accuracy is high, at 99%
+
+### Resources
+
+Module 20
+
+Chat GBT
