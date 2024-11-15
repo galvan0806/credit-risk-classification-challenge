@@ -36,3 +36,5 @@ When classifying loans, prioritizing the identification of high-risk loans is cr
 Module 20
 
 Chat GBT
+
+Picture: https://www.neugroup.com/an-early-warning-system-to-flag-excessive-counterparty-credit-risk/
