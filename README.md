@@ -5,7 +5,7 @@
 # Credit Risk Analysis Report
 
 <p align="center">
-  <img src="../Credit_Risk/Resources/credit_risk.jpg" alt="Credit Risk Image" height = 200 width = 600>
+  <img src="Credit_Risk/Resources/credit_risk.jpg" alt="Credit Risk Image" height = 200 width = 600>
 </p>
 </br>
  
